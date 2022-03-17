@@ -1,5 +1,5 @@
 <template>
-  <h1>Home - MS</h1>
+  <h1>Home - TS</h1>
 </template>
 
 <script>
